@@ -8,4 +8,4 @@ across user roles.
 
 ## 🎥 Live Demo
 
-👉 https://github.com/shreyanshshikhar/chat-app/blob/main/Live_Demo_1.mp4
+👉 https://github.com/shreyanshshikhar/chat-app/main/Live_Demo_1.mp4
